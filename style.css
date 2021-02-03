@@ -1,0 +1,31 @@
+.heading {
+	text-decoration: underline;
+	font-family: arial;
+	font-size: x-large;
+	text-transform: uppercase;
+}
+
+.heading:first-letter {
+	font-size: 1cm;
+}
+
+.general {
+	font-family: inherit;
+	padding: center;
+}
+
+.places {
+	text-decoration: underline;
+	font-family: cursive;
+	font-style: medium; 
+}
+
+.places:first-letter {
+	font-size: 1cm;
+}
+
+body {
+	font-style: small;
+	font-family: Verdana;
+
+}
